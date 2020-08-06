@@ -7,18 +7,7 @@ git add .
 git status
 git commit -m "Auto push to git"
 git push -u origin master:master
-echo 9
-sleep 1
-echo 8
-sleep 1
-echo 7
-sleep 1
-echo 6
-sleep 1
-echo 5
-sleep 1
-echo 4
-sleep 1
+
 echo 3
 sleep 1
 echo 2
